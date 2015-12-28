@@ -1,0 +1,9 @@
+D:\EvoArt\SvgToJpeg\bin\Debug\SvgToJpeg.exe.config
+D:\EvoArt\SvgToJpeg\bin\Debug\SvgToJpeg.exe
+D:\EvoArt\SvgToJpeg\bin\Debug\SvgToJpeg.pdb
+D:\EvoArt\SvgToJpeg\bin\Debug\Svg.dll
+D:\EvoArt\SvgToJpeg\bin\Debug\Svg.pdb
+D:\EvoArt\SvgToJpeg\bin\Debug\Svg.xml
+D:\EvoArt\SvgToJpeg\obj\Debug\SvgToJpeg.csprojResolveAssemblyReference.cache
+D:\EvoArt\SvgToJpeg\obj\Debug\SvgToJpeg.exe
+D:\EvoArt\SvgToJpeg\obj\Debug\SvgToJpeg.pdb

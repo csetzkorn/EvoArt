@@ -1,0 +1,6 @@
+D:\EvoArt\DistanceBetweenImages\bin\Debug\DistanceBetweenImages.exe.config
+D:\EvoArt\DistanceBetweenImages\bin\Debug\DistanceBetweenImages.exe
+D:\EvoArt\DistanceBetweenImages\bin\Debug\DistanceBetweenImages.pdb
+D:\EvoArt\DistanceBetweenImages\obj\Debug\DistanceBetweenImages.csprojResolveAssemblyReference.cache
+D:\EvoArt\DistanceBetweenImages\obj\Debug\DistanceBetweenImages.exe
+D:\EvoArt\DistanceBetweenImages\obj\Debug\DistanceBetweenImages.pdb

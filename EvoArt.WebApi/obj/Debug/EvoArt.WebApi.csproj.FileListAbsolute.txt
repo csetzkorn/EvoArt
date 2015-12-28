@@ -1,0 +1,17 @@
+D:\EvoArt\EvoArt.WebApi\bin\EvoArt.WebApi.dll.config
+D:\EvoArt\EvoArt.WebApi\bin\EvoArt.WebApi.dll
+D:\EvoArt\EvoArt.WebApi\bin\EvoArt.WebApi.pdb
+D:\EvoArt\EvoArt.WebApi\bin\Newtonsoft.Json.dll
+D:\EvoArt\EvoArt.WebApi\bin\System.Net.Http.Formatting.dll
+D:\EvoArt\EvoArt.WebApi\bin\System.Web.Cors.dll
+D:\EvoArt\EvoArt.WebApi\bin\System.Web.Http.Cors.dll
+D:\EvoArt\EvoArt.WebApi\bin\System.Web.Http.dll
+D:\EvoArt\EvoArt.WebApi\bin\System.Web.Http.WebHost.dll
+D:\EvoArt\EvoArt.WebApi\bin\System.Web.Http.Cors.xml
+D:\EvoArt\EvoArt.WebApi\bin\Newtonsoft.Json.xml
+D:\EvoArt\EvoArt.WebApi\bin\System.Net.Http.Formatting.xml
+D:\EvoArt\EvoArt.WebApi\bin\System.Web.Http.xml
+D:\EvoArt\EvoArt.WebApi\bin\System.Web.Http.WebHost.xml
+D:\EvoArt\EvoArt.WebApi\obj\Debug\EvoArt.WebApi.csprojResolveAssemblyReference.cache
+D:\EvoArt\EvoArt.WebApi\obj\Debug\EvoArt.WebApi.dll
+D:\EvoArt\EvoArt.WebApi\obj\Debug\EvoArt.WebApi.pdb

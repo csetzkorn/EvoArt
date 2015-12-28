@@ -1,0 +1,56 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<div id="svgTable" class="table">
+</div>
+
+@section PageScripts{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            addSvgs();
+        });
+
+        function addSvgs() {
+            $.ajax({
+                url: 'http://localhost:51188/api/test/test1',
+                type: 'GET',
+                headers: { 'Accept': 'application/json' },
+                success:
+                    function (data) {
+                        $("#svgTable").empty();
+                        
+                        for (var i = 0; i < data.length; i++) {
+                            $("#svgTable").append("<div class='cell' id='" + data[i].Guid + "'>" + data[i].Guid + "</div><br>");
+                            $("#" + data[i].Guid).append(data[i].Svg);
+                            $("#" + data[i].Guid).on("click", function (event) {
+
+                                var payLoad = event.target.id;
+
+                                $.ajax({
+                                    headers: {
+                                        'Accept': 'application/json',
+                                        'Content-Type': 'application/json'
+                                    },
+                                    type: 'POST',
+                                    data: JSON.stringify(payLoad),
+                                    dataType: 'application/json',
+                                    success: function() { 'success1'; },
+                                    error: function() { 'error1'; },
+                                    url: 'http://localhost:51188/api/test/Test2/',
+                                    cache: false
+                                });
+
+                                addSvgs();
+                            });
+                        }
+                    },
+                error: function () {
+                    alert('failure');
+                }
+            });
+        }
+    </script>
+}
+
+
